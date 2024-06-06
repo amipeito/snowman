@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: rgb(125, 185, 221);
+}
+.snowman {
+  width: 10px;
+  height: 10px;
+  background: black;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 100%;
+  box-shadow: 32px 0px, 17px 25px orange, 32px 45px 0 -2px black,
+    25px 47px 0 -2px black, 18px 48px 0 -2px black, 11px 48px 0 -2px black,
+    5px 46px 0 -2px black, 17px 27px 0 40px white, 24px 167px 0 100px white,
+    50px 640px 0 400px peru;
+}
